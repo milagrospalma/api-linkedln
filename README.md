@@ -1,5 +1,10 @@
-# LINKEDLN - La mayor red profesional del mundo
+# LINKEDIN - Api Service
 
-> Recuerda seguir siempre esta [guía de estilos](https://github.com/Laboratoria/js-style-guide/)
+### Ejercico Práctico sobre funcionalidad con APIs de terceros.
 
-Si tú pensabas que LinkedIn solo servía para mantener actualizado tu CV, revisa las siguientes slides para que te sorprendas con todas las posibilidades que nos ofrece para crear diferentes productos.
+* Este producto se encuentra en implementación.
+* Próximamente un app-web novedosa con la info de la mayor red social profesional .
+
+![Sin titulo](public/assets/images/linkedin-logo.png)
+
+* En desarrollo por: Milagros Palma y Lucero Hospina.
