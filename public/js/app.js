@@ -1,4 +1,5 @@
-function OnLinkedInLoad() {
+  function OnLinkedInLoad() {
+
   IN.Event.on(IN, 'auth', OnLinkedInAuth);
 }
 
