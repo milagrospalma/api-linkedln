@@ -20,5 +20,11 @@ header {
 
 .IN-widget {
   padding: 0;
-  /* margin: 10em 35em; */
+  margin: 10em 7em;
+}
+
+@media (min-width: 768px) {
+  .IN-widget {
+    margin: 3em 35em;
+}
 }
